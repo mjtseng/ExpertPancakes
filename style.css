@@ -1,6 +1,19 @@
 
 /* CSS file for mainpage.html or the ExpertPancakes main page*/
-/*navbar things*/
+
+* /*for all text on page*/
+{
+    font-family: Helvetica;
+    text-align: center;
+    font-size: 300%;
+}
+
+body
+{
+    background-color: #00b6ff; /*this is a nice shade of blue*/
+}
+
+/*------EVERYTHING FOR THE DROPDOWN MENU------*/
 
 /* Dropdown Button */
 .dropbtn {
