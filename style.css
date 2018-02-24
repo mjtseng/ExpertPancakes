@@ -47,26 +47,3 @@
 .dropdown:hover .dropbtn {
     background-color: #3e8e41;
 }
-
-ul
-{
-    /*background color can go here*/
-    /*background-color: # whatever hexcode*/
-}
-
-li
-{
-    display: inline; /*makes all elements of navbar go in one line*/
-}
-
-li a /*properties of text in list*/
-{
-    /*color: # whatever hexcode*/
-    /*text-align: center or left or something*/
-    /*text-decoration: none [<-- Leave this alone]*/
-}
-
-li a:hover /*what happens when you hover over the links*/
-{
-    /*background-color: # whatever hexcode*/ /*change color*/
-}
