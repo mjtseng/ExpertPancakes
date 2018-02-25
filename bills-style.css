@@ -17,6 +17,12 @@ h2
 
 /*ALL TABLE THINGS*/
 
+/*table width*/
+table
+{
+    width: 50%;
+}
+
 /*padding set reasonably to keep spacing good*/
 th, td
 {
