@@ -19,3 +19,20 @@ h2
 {
     text-align: center;
 }
+
+/*ALL TABLE THINGS*/
+
+/*table width*/
+table
+{
+    width: 80%;
+}
+
+/*padding set reasonably to keep spacing good*/
+th, td
+{
+    padding: 15px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+    /*border-bottom property creates horizontal dividers*/
+}
