@@ -5,6 +5,16 @@ body
     background-color: #00b6ff; /*this is a nice shade of blue*/
 }
 
+h1
+{
+    text-align: center;
+}
+
+h2
+{
+    text-align: center;
+}
+
 /*ALL TABLE THINGS*/
 
 /*padding set reasonably to keep spacing good*/
