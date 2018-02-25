@@ -1,0 +1,21 @@
+/*CSS file for Prescriptions page, or prescriptions.html (special CSS sheet because it has a table)*/
+
+* /*for all text on page*/
+{
+    font-family: Helvetica;
+}
+
+body
+{
+    background-color: #00b6ff; /*this is a nice shade of blue*/
+}
+
+h1
+{
+    text-align: center;
+}
+
+h2
+{
+    text-align: center;
+}
