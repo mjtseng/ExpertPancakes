@@ -1,0 +1,23 @@
+/*CSS file for Bills page, or payments.html (special CSS sheet because it has a table)*/
+
+body
+{
+    background-color: #00b6ff; /*this is a nice shade of blue*/
+}
+
+/*ALL TABLE THINGS*/
+
+/*padding set reasonably to keep spacing good*/
+th, td
+{
+    padding: 15px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+    /*border-bottom property creates horizontal dividers*/
+}
+
+tr:hover
+{
+    background-hover: #e2e2e2;
+    /*on mouse hover, the row changes color*/
+}
